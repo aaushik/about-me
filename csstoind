@@ -1,0 +1,17 @@
+h1 {
+color: blue;
+text-align: center;
+}
+
+.bighead {
+font-weight: bold;
+}
+
+body {
+ background-color: #ccccff;
+}
+
+#batwoman {
+font-size: 20px;
+font-family:
+}
