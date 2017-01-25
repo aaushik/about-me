@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<title> About Me </title>
+	<link href="C:\Users\DELL\Desktop\aboutme.css" type="text/css" rel="stylesheet">
+	
+</head>
 
-You can use the [editor on GitHub](https://github.com/aaushik/about-me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<body>
+	<h1> Hi, I'm Aaushi </h1>
+<div class = "batman">
+<p class = "bighead"> Wait, that's a weird spelling! </p>
+<p>  My first name does not contain a "Y" and is pronounced "aa-yu-shee". Just deal with it. </p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p class = "bighead">So, what do you do? </p>
+<p> I eat, drink and sleep, spending all my days converting oxygen into carbon dioxide. </p>
 
-```markdown
-Syntax highlighted code block
+<p class = "bighead"> Do you always answer this absurdly? </p>
+<p> No, I don't. I'm just not used to people reading my "About Me" page, so I think you're some stalker. </p>
 
-# Header 1
-## Header 2
-### Header 3
+<p class = "bighead"> Well, I'm not. Now tell me. </p>
+<p> Let me show you. </p>
 
-- Bulleted
-- List
+<img src = " C:\Users\DELL\Pictures\hyderabad\IMG_20160703_145815.jpg" width = 450px height = 800px>
+<p id = "batwoman"> I'm Batman's right hand. <strike>man</strike> woman. </p>
+</div>
 
-1. Numbered
-2. List
+</body>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aaushik/about-me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
