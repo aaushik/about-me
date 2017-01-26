@@ -1,12 +1,10 @@
-<!DOCTYPE html>
 <html>
+
 <head>
 	<title> About Me </title>
 	<link href="about-me/csstoind" type="text/css" rel="stylesheet">
 	
 </head>
-
-
 
 <body>
 	<h1> Hi, I'm Aaushi </h1>
